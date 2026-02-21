@@ -1,5 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Mon personnage de manga</title>
 
-
+<style>
+    body {
+        text-align: center;
+        font-family: Arial, sans-serif;
+    }
 
     h1 {
         color: #e63946;
