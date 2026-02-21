@@ -1,9 +1,5 @@
 
-<style>
-    body {
-        text-align: center;
-        font-family: Arial, sans-serif;
-    }
+
 
     h1 {
         color: #e63946;
