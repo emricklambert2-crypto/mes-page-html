@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<title>Mon personnage de manga</title>
 
 <style>
     body {
